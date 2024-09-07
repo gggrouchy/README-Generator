@@ -1,6 +1,6 @@
-# README File Generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Readme generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  Purpose of this project is to create a code that will generate a Readme file. 
+  Purpose of this project is to create a readme file
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,10 +10,10 @@
   ## Installation
   See link below
   ## Usage
-  N/A
+  To make README Files
   ## Contribution
   N/A
   ## Test
-  N/A
+  Video under installation 
   ## License
         This project is licensed under the MIT license.
